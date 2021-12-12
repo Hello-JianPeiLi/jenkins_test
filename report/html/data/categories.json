@@ -1,0 +1,51 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert -1 == 5\n  +-1\n  -5",
+      "children" : [ {
+        "name" : "test002",
+        "uid" : "ea908ca4cb61273e",
+        "parentUid" : "ed518f47163903341013d826a38a5bd0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1639306058724,
+          "stop" : 1639306058724,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ed518f47163903341013d826a38a5bd0"
+    }, {
+      "name" : "AssertionError: assert -4 == 5\n  +-4\n  -5",
+      "children" : [ {
+        "name" : "test003",
+        "uid" : "b8a6d5f13468a470",
+        "parentUid" : "1899dffc10600f96b1f50e464abe301c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1639306058765,
+          "stop" : 1639306058765,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1899dffc10600f96b1f50e464abe301c"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

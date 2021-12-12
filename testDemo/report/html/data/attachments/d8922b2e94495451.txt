@@ -1,3 +1,0 @@
-setup_class-----start
-setup-----start
-teardown------end

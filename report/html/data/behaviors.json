@@ -1,0 +1,72 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "allure测试",
+    "children" : [ {
+      "name" : "test001",
+      "children" : [ {
+        "name" : "test001",
+        "uid" : "1d6185f7b3bc348c",
+        "parentUid" : "8d005def571032b18a9c9ee596cb4dc5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639306058722,
+          "stop" : 1639306058722,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8d005def571032b18a9c9ee596cb4dc5"
+    }, {
+      "name" : "test002",
+      "children" : [ {
+        "name" : "test002",
+        "uid" : "ea908ca4cb61273e",
+        "parentUid" : "6a4349db41ac513c85dd7180bd3a689c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1639306058724,
+          "stop" : 1639306058724,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a4349db41ac513c85dd7180bd3a689c"
+    }, {
+      "name" : "test003",
+      "children" : [ {
+        "name" : "test003",
+        "uid" : "b8a6d5f13468a470",
+        "parentUid" : "cca72262f8da62b2f3cfeb4541f6262c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1639306058765,
+          "stop" : 1639306058765,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cca72262f8da62b2f3cfeb4541f6262c"
+    } ],
+    "uid" : "efb9162a852564ba6158d09cadfd4638"
+  } ]
+}
